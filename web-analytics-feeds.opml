@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Web Analytics Feeds by Brandon Himpfen</title>
+    </head>
+    <body>
+        <outline text="Analytics" title="Analytics">
+            <outline type="rss" text="Google Analytics Blog" title="Google Analytics Blog" xmlUrl="http://feeds.feedburner.com/blogspot/tRaA" htmlUrl="http://analytics.blogspot.com/"/>
+            <outline type="rss" text="Dx3 Digest - Canada's Digital Marke..." title="Dx3 Digest - Canada's Digital Marke..." xmlUrl="http://digest.dx3canada.com/feed/" htmlUrl="http://digest.dx3canada.com"/>
+            <outline type="rss" text="DoubleClick Advertiser" title="DoubleClick Advertiser" xmlUrl="http://doubleclickadvertisers.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://doubleclickadvertisers.blogspot.com/"/>
+        </outline>
+    </body>
+</opml>

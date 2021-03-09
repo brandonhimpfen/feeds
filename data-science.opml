@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Data Science Feeds by Brandon Himpfen</title>
+    </head>
+    <body>
+        <outline text="Data Science" title="Data Science">
+            <outline type="rss" text="FiveThirtyEight » Features" title="FiveThirtyEight » Features" xmlUrl="http://fivethirtyeight.com/features/feed/" htmlUrl="http://fivethirtyeight.com"/>
+            <outline type="rss" text="sebastianraschka.com" title="sebastianraschka.com" xmlUrl="http://sebastianraschka.com/rss_feed.xml" htmlUrl="http://sebastianraschka.com"/>
+            <outline type="rss" text="Dr. Randal S. Olson" title="Dr. Randal S. Olson" xmlUrl="http://www.randalolson.com/feed/" htmlUrl="http://www.randalolson.com"/>
+            <outline type="rss" text="no free hunch" title="no free hunch" xmlUrl="http://blog.kaggle.com/feed/" htmlUrl="http://blog.kaggle.com"/>
+            <outline type="rss" text="Deep Learning" title="Deep Learning" xmlUrl="http://deeplearning.net/feed/" htmlUrl="http://deeplearning.net"/>
+            <outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="http://www.kdnuggets.com"/>
+            <outline type="rss" text="Yhat | Blog" title="Yhat | Blog" xmlUrl="http://blog.yhathq.com/rss.xml" htmlUrl="http://blog.yhathq.com/"/>
+            <outline type="rss" text="Edwin Chen's Blog" title="Edwin Chen's Blog" xmlUrl="http://blog.echen.me/feeds/all.rss.xml" htmlUrl="http://blog.echen.me/"/>
+            <outline type="rss" text="Datablog | The Guardian" title="Datablog | The Guardian" xmlUrl="http://www.theguardian.com/news/datablog/rss" htmlUrl="http://www.theguardian.com/news/datablog"/>
+            <outline type="rss" text="Machined Learnings" title="Machined Learnings" xmlUrl="http://www.machinedlearnings.com/feeds/posts/default" htmlUrl="http://www.machinedlearnings.com/"/>
+            <outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
+            <outline type="rss" text="Pythonic Perambulations" title="Pythonic Perambulations" xmlUrl="http://jakevdp.github.com/atom.xml" htmlUrl="https://jakevdp.github.io/"/>
+            <outline type="rss" text="colah's blog" title="colah's blog" xmlUrl="http://colah.github.io/rss.xml" htmlUrl="http://colah.github.io/"/>
+            <outline type="rss" text="Nuit Blanche" title="Nuit Blanche" xmlUrl="http://nuit-blanche.blogspot.com/feeds/posts/default" htmlUrl="http://nuit-blanche.blogspot.com/"/>
+            <outline type="rss" text="Large Scale Machine Learning and Other Animals" title="Large Scale Machine Learning and Other Animals" xmlUrl="http://bickson.blogspot.com/feeds/posts/default" htmlUrl="http://bickson.blogspot.com/"/>
+            <outline type="rss" text="DataGenetics" title="DataGenetics" xmlUrl="http://datagenetics.com/feed/rss.xml" htmlUrl="http://datagenetics.com"/>
+            <outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="http://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+            <outline type="rss" text="Data Wrangling" title="Data Wrangling" xmlUrl="http://www.datawrangling.com/rss.xml" htmlUrl="http://www.datawrangling.com"/>
+            <outline type="rss" text="Data Mining: Text Mining, Visualization and Social Media" title="Data Mining: Text Mining, Visualization and Social Media" xmlUrl="http://datamining.typepad.com/data_mining/atom.xml" htmlUrl="http://datamining.typepad.com/data_mining/"/>
+            <outline type="rss" text="Data Mining Research" title="Data Mining Research" xmlUrl="http://feeds.feedburner.com/dataminingblog" htmlUrl="http://www.dataminingblog.com"/>
+            <outline type="rss" text="Introduction to Data Science, Columbia University" title="Introduction to Data Science, Columbia University" xmlUrl="http://columbiadatascience.com/feed/" htmlUrl="http://columbiadatascience.com"/>
+            <outline type="rss" text="John Ramey" title="John Ramey" xmlUrl="http://ramhiser.com/atom.xml" htmlUrl="http://ramhiser.com/"/>
+            <outline type="rss" text="Nick Diakopoulos" title="Nick Diakopoulos" xmlUrl="http://www.nickdiakopoulos.com/feed/" htmlUrl="http://www.nickdiakopoulos.com"/>
+            <outline type="rss" text="PyImageSearch" title="PyImageSearch" xmlUrl="http://feeds.feedburner.com/Pyimagesearch" htmlUrl="http://www.pyimagesearch.com"/>
+            <outline type="rss" text="Simply Statistics" title="Simply Statistics" xmlUrl="http://simplystatistics.org/feed/" htmlUrl="http://simplystatistics.org"/>
+            <outline type="rss" text="Fast Forward Labs" title="Fast Forward Labs" xmlUrl="http://blog.fastforwardlabs.com/rss" htmlUrl="http://blog.fastforwardlabs.com/"/>
+            <outline type="rss" text="Revolutions" title="Revolutions" xmlUrl="http://blog.revolutionanalytics.com/atom.xml" htmlUrl="http://blog.revolutionanalytics.com/"/>
+            <outline type="rss" text="I Quant NY" title="I Quant NY" xmlUrl="http://iquantny.tumblr.com/rss" htmlUrl="http://iquantny.tumblr.com/"/>
+            <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="http://feeds.feedburner.com/RBloggers" htmlUrl="http://www.r-bloggers.com"/>
+            <outline type="rss" text="FastML" title="FastML" xmlUrl="http://fastml.com/atom.xml" htmlUrl="http://fastml.com/"/>
+            <outline type="rss" text="Machine Learning (Theory)" title="Machine Learning (Theory)" xmlUrl="http://hunch.net/?feed=rss2" htmlUrl="http://hunch.net"/>
+            <outline type="rss" text="Data School" title="Data School" xmlUrl="http://www.dataschool.io/rss/" htmlUrl="http://www.dataschool.io/"/>
+        </outline>
+    </body>
+</opml>

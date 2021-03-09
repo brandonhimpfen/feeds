@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Programming Feeds by Brandon Himpfen</title>
+    </head>
+    <body>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="Code as Craft - Code as Craft" title="Code as Craft - Code as Craft" xmlUrl="http://codeascraft.com/feed/" htmlUrl="https://codeascraft.com"/>
+            <outline type="rss" text="Code Climate Blog" title="Code Climate Blog" xmlUrl="http://feeds.feedburner.com/codeclimate" htmlUrl="http://blog.codeclimate.com/"/>
+            <outline type="rss" text="Chris Stucchio" title="Chris Stucchio" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="https://www.chrisstucchio.com"/>
+            <outline type="rss" text="Scotch.io" title="Scotch.io" xmlUrl="http://scotch.io/feed" htmlUrl="https://scotch.io"/>
+            <outline type="rss" text="Matt Aimonetti" title="Matt Aimonetti" xmlUrl="http://matt.aimonetti.net/atom.xml" htmlUrl="http://matt.aimonetti.net/"/>
+            <outline type="rss" text="PHP.net news &amp; announcements" title="PHP.net news &amp; announcements" xmlUrl="http://www.php.net/feed.atom"/>
+            <outline type="rss" text="The Rust Programming Language Blog" title="The Rust Programming Language Blog" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="http://blog.rust-lang.org/"/>
+            <outline type="rss" text="juliabloggers.com" title="juliabloggers.com" xmlUrl="http://www.juliabloggers.com/feed/" htmlUrl="http://www.juliabloggers.com"/>
+            <outline type="rss" text="Pivotal Labs" title="Pivotal Labs" xmlUrl="http://pivotallabs.com/feed/" htmlUrl="http://pivotallabs.com"/>
+            <outline type="rss" text="word" title="word" xmlUrl="http://word.bitly.com/rss" htmlUrl="http://word.bitly.com/"/>
+            <outline type="rss" text="Max Ogden Blog" title="Max Ogden Blog" xmlUrl="http://maxogden.com/rss.xml" htmlUrl="http://maxogden.com/"/>
+        </outline>
+    </body>
+</opml>
